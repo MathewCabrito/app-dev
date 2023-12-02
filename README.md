@@ -8,6 +8,7 @@ that you expect, you know the horror movie monsters such as vampires, werewolves
 Join the 2 brothers Sam and Dean Winchester hunt these creatures and find out more about their missing father and the supernatural
 death of their mother.
 
+![image](https://github.com/MathewCabrito/app-dev/assets/152741327/19755d58-98a6-469f-9bd6-f002a36d4638)
 
 [To watch the series for free click here](https://solarmovie.pe/tv/watch-supernatural-free-39542)
 
